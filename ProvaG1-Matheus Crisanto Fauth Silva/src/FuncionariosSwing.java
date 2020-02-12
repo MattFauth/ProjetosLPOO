@@ -246,7 +246,7 @@ public class FuncionariosSwing extends javax.swing.JFrame {
         String setor=tfSetor.getText();
         for (int i=0;i<funcionario.size();i++){
             if (funcionario.get(i) instanceof FuncionarioAdministrativo){
-                if (setor == funcionario(setor)){
+                if (setor == Funcionario(setor)){
                     funcionario.toString();
                 }
             }

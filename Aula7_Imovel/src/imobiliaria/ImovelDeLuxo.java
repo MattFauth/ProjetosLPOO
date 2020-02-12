@@ -3,7 +3,7 @@ package imobiliaria;
 
 /**
  *
- * @author Madianita
+ * @author mathe
  */
 public class ImovelDeLuxo extends Imovel{
     private double adicional;

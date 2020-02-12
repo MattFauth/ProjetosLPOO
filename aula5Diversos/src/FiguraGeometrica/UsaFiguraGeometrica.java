@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Luan Borghesan
+ * @author mathe
  */
 public class UsaFiguraGeometrica extends javax.swing.JFrame {
     FiguraGeometrica figura;

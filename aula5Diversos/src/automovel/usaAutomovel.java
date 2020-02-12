@@ -8,7 +8,7 @@ package automovel;
 
 /**
  *
- * @author Madianita
+ * @author mathe
  */
 public class usaAutomovel extends javax.swing.JFrame {
     Automovel carro;

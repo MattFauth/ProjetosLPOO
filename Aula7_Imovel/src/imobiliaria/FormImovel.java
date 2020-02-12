@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Madianita
+ * @author mathe
  */
 public class FormImovel extends javax.swing.JFrame {
 

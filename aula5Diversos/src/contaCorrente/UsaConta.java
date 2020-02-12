@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Madianita
+ * @author mathe
  */
 public class UsaConta extends javax.swing.JFrame {   
    

@@ -117,7 +117,7 @@ public class ContaPanel extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jbCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbCalcularActionPerformed
-        if ((tfAno.getText() || tfMes.getText() || tfKWConsumido.getText() || tfValorKW.getText()).equals(""){
+        if ((tfAno.getText() || tfMes.getText() || tfKWConsumido.getText() || tfValorKW.getText()).equals("")){
             JOptionPane.showMessageDialog("Um dos campos esta vazio!", evt);
         }
         else{
